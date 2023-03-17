@@ -1,0 +1,81 @@
+body {
+  background-color: #fefae0;
+}
+.name_profile {
+  font-family: "Ubuntu", sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  color: #3d348b;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.text_profile {
+  font-family: "Edu NSW ACT Foundation", cursive;
+  color: #98c1d9;
+}
+.imgHref:hover {
+  width: 40px;
+}
+.features__title {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  color: #00a896;
+}
+.features__list {
+  list-style-type: none;
+  color: #9bb1ff;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  font-size: 25px;
+}
+/* FOOTER */
+footer {
+  margin-top: 100px;
+  background-color: #d8e2dc;
+  color: #6c757d;
+}
+.footer_start {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #adb5bd;
+}
+.footer_icon {
+  margin-top: 20px;
+  width: 20%;
+}
+.icon {
+  width: 7%;
+  margin-left: 10px;
+}
+.footer_info {
+  display: flex;
+  justify-content: space-between;
+}
+.control_text {
+  width: 17%;
+}
+.footer__list {
+  list-style-type: none;
+}
+.list > a {
+  text-decoration: none;
+}
+a:hover {
+  color: #1090df;
+  transition: 0.8s;
+}
+a {
+  text-decoration: none;
+  color: #6c757d;
+}
+.footer_end {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #b7e4c7;
+  height: 50px;
+}
+.text {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  color: #6c757d;
+}

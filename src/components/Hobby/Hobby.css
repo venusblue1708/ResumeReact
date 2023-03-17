@@ -1,0 +1,11 @@
+.hobby {
+  font-size: 40px;
+  font-family: "Rubik Iso", cursive;
+  color: #9f86c0;
+}
+.hobby_img {
+  margin-top: 10px;
+  width: 200px;
+  height: 260px;
+  margin-right: 5px;
+}
